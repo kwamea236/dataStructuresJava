@@ -1,5 +1,6 @@
 /*
-*
+*Author: Ato Kwamena
+* Date: 21 June 2022
 * */
 
 public class GameEntry {
